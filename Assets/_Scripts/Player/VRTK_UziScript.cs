@@ -24,14 +24,14 @@
                 nextTimeToFire = Time.time + 1f / firerate;
                 Shoot();
             }
-            
 
+            
         }
 
         // Use this for initialization
         void Start()
         {
-
+            
         }
 
         void Shoot()
